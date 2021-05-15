@@ -1,0 +1,41 @@
+.showcard {
+  position: absolute;
+  top: 21%;
+  left: 20%;
+  width: 60%;
+  box-shadow: 0px 1px 0 darkgrey, 6px 10px 20px black;
+}
+
+.font {
+  font-family: "Titillium Web", sans-serif;
+}
+
+.intro {
+  font-size: 20px;
+  margin-bottom: 0;
+}
+
+#img {
+  opacity: 0.8;
+  box-shadow: 0px 1px 0 grey, 6px 10px 20px grey;
+}
+
+.IP {
+  font-weight: 700;
+  font-size: 30px;
+  letter-spacing: 2px;
+  text-shadow: -2px 2px 40px blue;
+  margin-bottom: 20px;
+}
+
+.location {
+  font-size: 25px;
+  font-weight: 800;
+}
+
+.date {
+  display: inline-block;
+  color: gray;
+  font-size: 15px;
+  margin: 10px;
+}
